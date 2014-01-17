@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: somc-subpages-fas10
-Plugin URI: 
+Plugin URI: https://github.com/fas10/somc-subpages-fas10
 Descriptin: Displays all subpages of the page it is placed on.
 Version 1.0
 Author: Martin Fast
