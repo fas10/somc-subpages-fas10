@@ -1,0 +1,32 @@
+.subPagesList {	
+	border-left-width: 1px;
+	border-style: solid;
+}
+
+.subpage {
+	margin:10px;
+	list-style-type: none;
+}
+
+.firstGenerationSubPage{
+	font-size: 18px;
+}
+
+.subPageTitle {
+	font-weight: bold;
+}
+
+.hasSubPages {
+	float:left;
+}
+
+.subpageImg {
+	float:right;
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.subPageButton {
+	padding-left: 10px;
+	cursor: pointer;
+}
